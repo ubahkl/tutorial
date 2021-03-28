@@ -1,0 +1,10 @@
+Colando texto 
+
+depois de copiar o texto , com a tecla (y) e armazenado no buffer(memória), 
+e para colar pressione a tecla (p) ou (p).
+
+P - coloca o texto copiado a esquerda do cursor, se tiver letras coloca o texto 
+acima da linha atual.
+
+p - coloca o texto copiado a direita do cursor , se tiver letras coloca o texto 
+abaixo da linha atual.

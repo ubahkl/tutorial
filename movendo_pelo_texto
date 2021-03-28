@@ -1,0 +1,19 @@
+Para se mover pelo texto , tem 2 maneiras:
+(1) - Teclas das setas, cima,baixo,direita,esquerda
+(2) - caravteres alfabéticos.
+
+h - Direita 
+l - Esquerda
+j - Baixo
+k - Cima
+
+w - move o cursor para a próxima palavra
+W -
+b - move o cursor para a última palavra
+B -
+0 - Move o cursor para o início da linha atual
+$ - movr o cursor para o final da linha atual
+
+H - Move o cursor para o início da tela.
+M - MOve o cursor para o meio da tela
+L - move o cursor para o final da tela.

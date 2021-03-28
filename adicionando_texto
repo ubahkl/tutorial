@@ -1,0 +1,13 @@
+Para entra no modo de entrada -> digite um comando de entrada. 
+
+A - comando (add), inserir texto a direita do cursor. 
+a - inserir texto a partir do fim da linha atual.
+i - comando insert, inserir texto a esquerda do cursor.
+I - insert at beginning, inserir o texto que comeca no inicio da linha atual.
+o - Open Below, abre uma linha abaixo da linha atual, e coloca no modo inserção.
+O - open above, abre uma linha acima da linha atual.
+
+Dica : INSERT , modo inserção apenas digite.
+Dica : ESC, tecla ESC , pressione a tecla esc para voltar ão modo de comando.
+
+

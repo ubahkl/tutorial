@@ -1,0 +1,10 @@
+Procurando texto 
+
+para pesquisar alguma palavra utilize o caractere (/) ou ponto de interrogação (?) + o padrão de texto (string).
+
+exemplos 
+/hello
+?good
+
+depois de pesquisar aperte (n) ou (N para pesquisar frente ou atras.
+

@@ -1,0 +1,20 @@
+Saindo do vi 
+
+(1) ZZ - Sai e salva do vi,  automaticamente.
+
+(2) :w - Salva o arquivo atual , mas não sai do modo de entrada.
+
+(3) :wq - O mesmo que ZZ
+
+(4) :q - Sai do arquivo atual. Só funciona se vc não tiver alterado o arquivo atual.
+e não salvado.
+
+(5) :q! - Sai do arquivo atual e não salva as alterações feitas no arquivos.
+
+DICA: Se vc estragou o arquivo por engano, a melhor opção é (-> :wq! <-) ,
+pois o arquivo volta para ultima versão, caso vc salvasse o arquivo ele volta para última versão salva. 
+
+Dica : utilize a tecla (u) para desfazer cada alteração feita por vc ,
+semelhante ão comando ctrl + z (windows).
+
+

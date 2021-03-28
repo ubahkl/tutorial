@@ -1,0 +1,20 @@
+Excluindo , copiando , alterando e texto.
+
+No modo de comando : 
+
+x - exclui o caractere sob o curor
+X - exclui o caractere imediatamente antes do cursor
+d(?) - exlui algum texto 
+c(?) - altera algum texto.
+y(?) - copia (yanks) algum texto.
+
+arthur de araujo craveiro
+samuel de arajo craveiro
+cleber attla escape
+arthur de araujo craveiro
+samuel de arajo craveiro
+
+- apertando a (d) duas vezes exclui a linha inteira.
+- copiando com a tecla (y) e colando com a tecla (p),CASPLOCK ativado,
+copia e cola a linha inteira. 
+ 
